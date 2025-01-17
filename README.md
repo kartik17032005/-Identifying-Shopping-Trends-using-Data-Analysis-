@@ -5,5 +5,7 @@ This project analyzes shopping trends data to uncover valuable insights about cu
 Technologies Used
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Jupyter Notebooks for documentation
+
 Acknowledgments
-Thanks to techsaksham that made this analysis possible.
+
+Thanks to edunet and techsaksham that made this analysis possible.
